@@ -1,0 +1,14 @@
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\ulano\source\repos\Course_2\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\ulano\source\repos\Course_2\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\ulano\source\repos\Course_2\Data\bin\Debug\net6.0\Data.dll
+C:\Users\ulano\source\repos\Course_2\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.dll
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\ulano\source\repos\Course_2\Data\obj\Debug\net6.0\ref\Data.dll
